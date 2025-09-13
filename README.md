@@ -1,2 +1,2 @@
-# kiroTODOInJava
-Basic TODO app made with KIRO
+# Basic TODO app in Core Java made with Kiro
+This is a test application to try out AWS Kiro IDE.
